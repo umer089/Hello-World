@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout<<" \n**** WELCOME TO CITY UNIVERSITY ****\n ";
+	cout<<" \n\t\t\t\t\t\t ** MAJOR ASSIGNMENT ** \n ";
+	cout<<" \n\t NAME: UMER ZAIB ";
+	cout<<" \n\t ID No: 11664 ";
+	cout<<" \n\t Section: 'D' ";
+	cout<<" \n\t Subject: 'Professional Practice' ";
+	cout<<" \n\t Teacher: Sir,Iftikhar Alam ";
+	cout<<" \n\n Question. Print a Simple program... ";
+    cout<<" \n\n\t *** HELLO WORLD! *** ";
+    
+ return 0;
+}
